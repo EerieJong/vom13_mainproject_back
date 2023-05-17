@@ -6,7 +6,7 @@
     $useridx = $_SESSION['useridx'];
     $userlvl = $_SESSION['userlvl'];
   } else {
-    $userid = 'guest';
+    $userid = "guest";
     $useridx = -1;
     $userlvl = -1;
   }
